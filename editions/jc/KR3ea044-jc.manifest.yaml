@@ -1,0 +1,358 @@
+canonical_identifier: bkk:krp/KR3ea044/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ea044/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 中西匯通醫經精義
+  identifiers:
+    krp: KR3ea044
+  tags:
+    kr-categories: KR3ea
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ea044.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ea044_000-jc.yaml, hash: 'sha256:0d477d297182ac72bd5dd6c300245eaf64639b77f907b2be64aea183ee4963c4'}
+  - {seq: 1, filename: KR3ea044_001-jc.yaml, hash: 'sha256:016a549bd725ab2a725ad869269ebea42322bd3b97e26cad1e3f563a68b004bb'}
+  - {seq: 3, filename: KR3ea044_003-jc.yaml, hash: 'sha256:4ace7ed1c9489d14f9290ef913e93b45b91c6b2b37965460df03229947ea72ba'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ea044_000-jc.markers.yaml, hash: 'sha256:f3f62301174c280dbb72c0740d8ad295239272265f269a4826e66bd68c248f89'}
+  - {seq: 1, role: markers, filename: assets/KR3ea044_001-jc.markers.yaml, hash: 'sha256:fbe42a1b4d31355ff2b168fe4d082cac9836f692fa850dbc4d53eb86c2a1ee7d'}
+  - {seq: 3, role: markers, filename: assets/KR3ea044_003-jc.markers.yaml, hash: 'sha256:a5c78e817938cd792b29ac3f855a153e39dbceea42fd87b09b18fe6bbc477b8d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ea044_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 512
+  label: 敘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ea044_jc_000-d3.h1s1
+    span:
+    - body
+    - 512
+    - 992
+  label: 例言
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ea044_jc_001-d4.h1s1
+    span:
+    - body
+    - 0
+    - 27220
+  label: 上卷
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ea044_jc_001-d4d2
+    span:
+    - body
+    - 2
+    - 2163
+  label: 人身陰陽
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea044_jc_001-d4d3
+    span:
+    - body
+    - 2163
+    - 7522
+  label: 五臟所屬
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea044_jc_001-d4d4
+    span:
+    - body
+    - 7522
+    - 8637
+  label: 五臟所藏
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea044_jc_001-d4d5
+    span:
+    - body
+    - 8637
+    - 10283
+  label: 五臟所主
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea044_jc_001-d4d6
+    span:
+    - body
+    - 10283
+    - 12347
+  label: 臟腑所合
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea044_jc_001-d4d7
+    span:
+    - body
+    - 12347
+    - 15449
+  label: 臟腑之官
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea044_jc_001-d4d8
+    span:
+    - body
+    - 15449
+    - 15923
+  label: 五藏九竅
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea044_jc_001-d4d9
+    span:
+    - body
+    - 15923
+    - 17146
+  label: 男女天癸
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea044_jc_001-d4d10
+    span:
+    - body
+    - 17146
+    - 18575
+  label: 血氣所生
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea044_jc_001-d4d11
+    span:
+    - body
+    - 18575
+    - 19563
+  label: 營衛生會
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea044_jc_001-d4d12
+    span:
+    - body
+    - 19563
+    - 20599
+  label: 六經六氣
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea044_jc_001-d4d13
+    span:
+    - body
+    - 20599
+    - 21415
+  label: 經氣主治
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea044_jc_001-d4d14
+    span:
+    - body
+    - 21415
+    - 25074
+  label: 十二經脈
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea044_jc_001-d4d15
+    span:
+    - body
+    - 25074
+    - 27220
+  label: 衝任督帶
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea044_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 22534
+  label: 下卷
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ea044_jc_003-d5d2
+    span:
+    - body
+    - 2
+    - 6975
+  label: 全體總論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea044_jc_003-d5d3
+    span:
+    - body
+    - 6975
+    - 7566
+  label: 五臟所傷
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea044_jc_003-d5d4
+    span:
+    - body
+    - 7566
+    - 8157
+  label: 五臟所惡
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea044_jc_003-d5d5
+    span:
+    - body
+    - 8157
+    - 9220
+  label: 臟腑為病
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea044_jc_003-d5d6
+    span:
+    - body
+    - 9220
+    - 11386
+  label: 諸病所屬
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea044_jc_003-d5d7
+    span:
+    - body
+    - 11386
+    - 11804
+  label: 四時所病
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea044_jc_003-d5d8
+    span:
+    - body
+    - 11804
+    - 12612
+  label: 臟腑通治
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea044_jc_003-d5d9
+    span:
+    - body
+    - 12612
+    - 14403
+  label: 望形察色
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea044_jc_003-d5d10
+    span:
+    - body
+    - 14403
+    - 14838
+  label: 聞聲別證
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea044_jc_003-d5d11
+    span:
+    - body
+    - 14838
+    - 15146
+  label: 問察原委
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea044_jc_003-d5d12
+    span:
+    - body
+    - 15146
+    - 17817
+  label: 診脈精要
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea044_jc_003-d5d13
+    span:
+    - body
+    - 17817
+    - 18346
+  label: 審治處方
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea044_jc_003-d5d14
+    span:
+    - body
+    - 18346
+    - 19310
+  label: 氣味陰陽
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea044_jc_003-d5d15
+    span:
+    - body
+    - 19310
+    - 19777
+  label: 性味宜忌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea044_jc_003-d5d16
+    span:
+    - body
+    - 19777
+    - 22534
+  label: 七方十劑
+  type: section
+  level: 2
+hash: sha256:c071067e199ea132f3788a9d92461636b314a9109fde4c0b2476ae0cf5cde613
